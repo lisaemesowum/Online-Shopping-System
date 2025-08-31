@@ -55,6 +55,7 @@ public class ShoppingCart  implements Cart {
            return item + "removed completely from the cart.";
        }
      else{
+           // 4. Otherwise, just reduce the quantity
          items.put(item, currentItem - amount);
          return amount + " " + item + "(s) product successfully removed. ";
        }
