@@ -5,5 +5,40 @@ package ShoppingSystem;
 public class Main {
     public static void main(String[] args) {
 
+//        main for the notification withe credit card payment
+
+        // adding real input
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     }
 }
